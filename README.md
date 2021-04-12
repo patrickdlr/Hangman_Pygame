@@ -8,7 +8,7 @@ Example: "py -3.8 -m pip install pygame" if using Python 3.8 and Windows <br />
 Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux/Mac OS X/other POSIX systems <br />
 Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS X/other POSIX systems <br />
 
-3. Download files from this repository (patrickdlr/Hangman_Pygame)
+3. Download files from this repository (https://github.com/patrickdlr/Hangman_Pygame)
 
 4. From the downloaded files, run the "Hangman.py" and enjoy!
 
