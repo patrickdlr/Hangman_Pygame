@@ -1,6 +1,6 @@
 # Hangman_Pygame
 
-An experimental project to try out Pygame, while loops, and basic classes. It utilizes 2 text files to save or get data (hidden words for Hangman). It is not finished; I have moved on to  another projects. Thank you for looking!
+An experimental project to try out Pygame, while loops, and basic classes. It utilizes 2 text files to save or get data (ex: hidden words for Hangman). It is not finished; I have moved on to  another projects. Thank you for looking!
 
 How to use Hangman_Pygame:
 1. Download and install Python (3.8 or newer) from https://www.python.org/downloads/
