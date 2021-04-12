@@ -8,8 +8,8 @@ How to use Hangman_Pygame:
 2. Install Pygame module via Command Prompt/Terminal <br />
 Example: "py -3.9 -m pip install pygame" if using Python 3.9 and Windows <br />
 Example: "py -3.8 -m pip install pygame" if using Python 3.8 and Windows <br />
-Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux/Mac OS X/other POSIX systems <br />
-Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS X/other POSIX systems <br />
+Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux or Mac OS X <br />
+Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux or Mac OS X <br />
 
 3. Download files from this repository (https://github.com/patrickdlr/Hangman_Pygame)
 
