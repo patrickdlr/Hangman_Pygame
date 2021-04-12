@@ -1,3 +1,3 @@
 # Hangman_Pygame
 
-![plot](C:\Users\patri\OneDrive\Pictures\Hangmancpature8.PNG)
+![Alt text](Hangman Resources/Hangman_screenshot1.PNG?raw=true "Title")
