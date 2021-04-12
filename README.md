@@ -5,7 +5,7 @@ Experimental project to try out Pygame, while loops, and basic classes. It utili
 How to use Hangman_Pygame:
 1. Download and install Python (3.8 or newer) from https://www.python.org/downloads/
 
-2. Install Pygame module via Command Prompt <br />
+2. Install Pygame module via Command Prompt/Terminal <br />
 Example: "py -3.9 -m pip install pygame" if using Python 3.9 and Windows <br />
 Example: "py -3.8 -m pip install pygame" if using Python 3.8 and Windows <br />
 Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux/Mac OS X/other POSIX systems <br />
