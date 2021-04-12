@@ -696,7 +696,7 @@ def keyboardmaker():
         row_1_buttons_width += buttonwidth + ((buttonwidth * gapx) - buttonwidth)
     row_1_buttons_width -= ((buttonwidth * gapx) - buttonwidth)
     row_1_placex = (dimension1.return_swidth() - mf(row_1_buttons_width)) / 2
-    print(row_1_placex, "row_1_placex")
+    #print(row_1_placex, "row_1_placex")
 
     # find row_2 width for row 2 centering
     row_2_buttons_width = 0
@@ -704,7 +704,7 @@ def keyboardmaker():
         row_2_buttons_width += buttonwidth + ((buttonwidth * gapx) - buttonwidth)
     row_2_buttons_width -= ((buttonwidth * gapx) - buttonwidth)
     row_2_placex = (dimension1.return_swidth() - mf(row_2_buttons_width)) / 2
-    print(row_2_placex, "row_2_placex")
+    #print(row_2_placex, "row_2_placex")
 
     # find row_3 width for row 3 centering
     row_3_buttons_width = 0
@@ -712,7 +712,7 @@ def keyboardmaker():
         row_3_buttons_width += buttonwidth + ((buttonwidth * gapx) - buttonwidth)
     row_3_buttons_width -= ((buttonwidth * gapx) - buttonwidth)
     row_3_placex = (dimension1.return_swidth() - mf(row_3_buttons_width)) / 2
-    print(row_3_placex, "row_3_placex")
+    #print(row_3_placex, "row_3_placex")
 
     # find row_4 width for row 4 centering
     row_4_buttons_width = 0
@@ -720,7 +720,7 @@ def keyboardmaker():
         row_4_buttons_width += buttonwidth + ((buttonwidth * gapx) - buttonwidth)
     row_4_buttons_width -= ((buttonwidth * gapx) - buttonwidth)
     row_4_placex = (dimension1.return_swidth() - mf(row_4_buttons_width)) / 2
-    print(row_4_placex, "row_4_placex")
+    #print(row_4_placex, "row_4_placex")
 
     #keyboard maker
     placex += row_1_placex
@@ -758,7 +758,7 @@ def checkletter(inputa): #not re-usable
             inputamulti.remove(a)
     inputamulti = list({a for a in inputamulti})
     #print('inputamulti:',inputamulti)
-    print('input added: '.ljust(20, " "), inputamulti)
+    print('input added: '.ljust(20, " "), sorted(inputamulti))
 
     #correct letters/usedletters
     num += len(missed)
@@ -783,7 +783,7 @@ def checkletter(inputa): #not re-usable
         if ' ' in a or '\n' in a:
             usedletters.remove(a)
     #print('usedletters: ',usedletters)
-    print('correct letters: '.ljust(20, " "), usedletters)
+    print('correct letters: '.ljust(20, " "), sorted(usedletters))
 
     #incorrect letters/missedtotal
     for n in inputamulti:
@@ -792,9 +792,9 @@ def checkletter(inputa): #not re-usable
                 if n not in missedtotal:
                     missedtotal.append(n)
                     missed.append(n)
-    missedtotal = sorted(list({a for a in missedtotal}))
+    missedtotal = list({a for a in missedtotal})
     #print('missedtotal: ',missedtotal)
-    print('incorrect letters: '.ljust(20, " "), missedtotal)
+    print('incorrect letters: '.ljust(20, " "), sorted(missedtotal))
 
 
 
@@ -830,7 +830,7 @@ for a in textfile3.readlines():
         listy0.append(a)
 textfile3.close()
 # centralized variable init
-print(listy0)
+#print(listy0)
 A1 = CentralizedVariable(listy0)
 
 ######################################################
@@ -843,7 +843,7 @@ for a in textfile4.readlines():
         listy2.append(a)
 textfile4.close()
 # centralized variable init (stores deleted text)
-print(listy2)
+#print(listy2)
 A2 = CentralizedVariable(listy2)
 
 ######################################################
@@ -1136,7 +1136,7 @@ while True:
 
 
         while True:
-            print(saveseconds)
+            #print(saveseconds)
 
             # fill the screen
             windowsurface.fill((0,0,0))
