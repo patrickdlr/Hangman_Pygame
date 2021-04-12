@@ -2,11 +2,11 @@
 
 #1. Download and install Python (3.8 or newer) from https://www.python.org/downloads/
 
-#2. Install Pygame module via Command Prompt
-#Example: "py -3.9 -m pip install pygame" if using Python 3.9 and Windows
-#Example: "py -3.8 -m pip install pygame" if using Python 3.8 and Windows
-#Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux/Mac OS X/other POSIX systems
-#Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS X/other POSIX systems
+#2. Install Pygame module via Command Prompt <br />
+#Example: "py -3.9 -m pip install pygame" if using Python 3.9 and Windows <br />
+#Example: "py -3.8 -m pip install pygame" if using Python 3.8 and Windows <br />
+#Example: "python3.9 -m pip install pygame" if using Python 3.9 and Linux/Mac OS X/other POSIX systems <br />
+#Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS X/other POSIX systems <br />
 
 #3. Download files from this repository (patrickdlr/Hangman_Pygame)
 
