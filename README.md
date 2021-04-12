@@ -12,8 +12,9 @@ Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS 
 
 4. From the downloaded files, run the "Hangman.py" and enjoy!
 
-![Hangman_sc1](https://user-images.githubusercontent.com/59127562/114470801-5a7cc400-9ba4-11eb-8f33-500b5568c230.PNG =300x400)
-![Hangman_sc2](https://user-images.githubusercontent.com/59127562/114470809-5cdf1e00-9ba4-11eb-8042-bfc9698cd4b9.PNG =300x400)
+![Hangman_sc1](https://user-images.githubusercontent.com/59127562/114470801-5a7cc400-9ba4-11eb-8f33-500b5568c230.PNG)
+
+![Hangman_sc2](https://user-images.githubusercontent.com/59127562/114470809-5cdf1e00-9ba4-11eb-8042-bfc9698cd4b9.PNG)
 
 
 
