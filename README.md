@@ -16,5 +16,4 @@ Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS 
 
 ![Hangman_sc2](https://user-images.githubusercontent.com/59127562/114470809-5cdf1e00-9ba4-11eb-8042-bfc9698cd4b9.PNG)
 
-
-
+<img src="https://user-images.githubusercontent.com/59127562/114470809-5cdf1e00-9ba4-11eb-8042-bfc9698cd4b9.PNG" width="400" height="300">
