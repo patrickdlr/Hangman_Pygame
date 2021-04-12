@@ -17,10 +17,8 @@ Example: "python3.8 -m pip install pygame" if using Python 3.8 and Linux/Mac OS 
   <div class="column">
     
       <img src="https://user-images.githubusercontent.com/59127562/114470801-5a7cc400-9ba4-11eb-8f33-500b5568c230.PNG" width="400" height="300">
-      <figcaption>Caption goes here</figcaption>
     
       <img src="https://user-images.githubusercontent.com/59127562/114470809-5cdf1e00-9ba4-11eb-8042-bfc9698cd4b9.PNG" width="400" height="300">
-      <figcaption>Caption goes here</figcaption>
     
   </div>
 </div>
