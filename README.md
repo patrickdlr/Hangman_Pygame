@@ -1,6 +1,6 @@
 # Hangman_Pygame
 
-An experimental project to combine my Python Hangman console program and my basic Pygame knowledge. It utilizes 2 text files to save or get data (ex: hidden words for Hangman).
+An experimental project to combine my Python console program of Hangman and my basic Pygame knowledge. It utilizes 2 text files to save or get data (ex: hidden words for Hangman).
 
 How to use Hangman_Pygame:
 1. Download and install Python (3.8 or newer) from https://www.python.org/downloads/
