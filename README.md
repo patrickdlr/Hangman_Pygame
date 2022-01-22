@@ -1,4 +1,4 @@
-# Hangman_Pygame
+# Hangman_Python
 
 An experimental project to combine my Python console program of Hangman and my basic Pygame knowledge. It utilizes 2 text files to save or get data (ex: hidden words for Hangman).
 
